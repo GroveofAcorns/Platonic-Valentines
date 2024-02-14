@@ -2,7 +2,7 @@ function one() {
     document.getElementById('picture').src='../../rpictures/pic1.JPG';
 }
 function two() {
-    document.getElementById('picture').src='../../rpictures/pic4.JPeG';
+    document.getElementById('picture').src='../../rpictures/pic4.JPEG';
 }
 function three() {
     document.getElementById('picture').src='../../rpictures/pic5.jpeg';
