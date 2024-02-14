@@ -5,14 +5,14 @@ function two() {
     document.getElementById('picture').src='../../rpictures/pic2.JPG';
 }
 function three() {
-    document.getElementById('picture').src='../../rpictures/pic5.jpeg';
+    document.getElementById('picture').src='../../rpictures/pic5.JPEG';
 }
 function four() {
-    document.getElementById('picture').src='../../rpictures/pic9.jpg'; 
+    document.getElementById('picture').src='../../rpictures/pic9.JPG'; 
 }
 function five() {
-    document.getElementById('picture').src='../../rpictures/pic30.jpeg';
+    document.getElementById('picture').src='../../rpictures/pic30.JPEG';
 }
 function six() {
-    document.getElementById('picture').src='../../rpictures/pic31.jpeg';
+    document.getElementById('picture').src='../../rpictures/pic31.JPEG';
 }
