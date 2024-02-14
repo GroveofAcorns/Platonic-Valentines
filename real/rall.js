@@ -26,7 +26,7 @@ function nine() {
     document.getElementById('picture').src='rpictures/pic9.JPG'; 
 }
 function one0() {
-    document.getElementById('picture').src='rpictures/pic10.jJPEG';
+    document.getElementById('picture').src='rpictures/pic10.JPEG';
 }
 function one1() {
     document.getElementById('picture').src='rpictures/pic11.JPEG';
