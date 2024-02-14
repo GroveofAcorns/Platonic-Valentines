@@ -1,0 +1,6 @@
+For new pictures on HTML:
+            <p id="num" onclick="num()">Num</p>
+For new pictures on JS:
+            function num() {
+              document.getElementById('picture').src='../../vpictures/pic#.png'; 
+            }
