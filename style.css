@@ -1,0 +1,48 @@
+body {
+    background-image: url("pics/bkgd.svg");
+    background-size: contain;
+    background-attachment: fixed;
+}
+main {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 60%;
+    position: absolute;
+    left: 20%;
+}
+#spiral {
+    position: relative;
+    float: left;
+    left: 15%;
+}
+#star {
+    position: relative;
+    float: right;
+    right: 15%;
+}
+.links {
+    font-size: x-large;
+}
+a {
+    color: black;
+}
+#picture {
+    width: 60%;
+}
+.opt {
+    font-size: large;
+    text-decoration: underline;
+    left: 10%;
+    position: relative;
+    float: left;
+}
+h2 {
+    color: black;
+}
+.opt1, .opt2 {
+    text-decoration: underline;
+    left: 10%;
+    position: relative;
+    float: left;
+    padding-right: 2em;
+}
